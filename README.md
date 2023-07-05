@@ -1,4 +1,4 @@
-![Header image](https://raw.githubusercontent.com/katie-hu/kayteewho/blob/main/Images/Header.png)
+![Header image](https://github.com/katie-hu/kayteewho/blob/main/Images/Header.png)
 
 ### Hi Everyone!
 
