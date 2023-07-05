@@ -2,7 +2,7 @@
 
 ### Hi Everyone!
 
-<img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR3cW03eDJwMDU2OXIzNmp0Z3BvbXVtaHl0MzhibmFqbG5kemlnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif' width='100"'>
+<img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR3cW03eDJwMDU2OXIzNmp0Z3BvbXVtaHl0MzhibmFqbG5kemlnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif' width='10"'>
 
 
 My name is Katie Hu. Thank you for stopping by my page! 
